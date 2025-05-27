@@ -5,3 +5,4 @@ Hashtag prompts for the #writersCoffeeClub hashtag game on Mastodon.
 - [April](wcc0425.md)
 - [May](wcc0525.md) (*current*)
 - [June](wcc0625.md)
+- [July](wcc0725.md) 
