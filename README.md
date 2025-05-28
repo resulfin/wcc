@@ -1,4 +1,4 @@
-Hashtag prompts for the #writersCoffeeClub hashtag game on Mastodon. 
+Hashtag prompts for the fediverse #writersCoffeeClub hashtag. 
 
 #### 2025
 - [March](wcc0325.md)
